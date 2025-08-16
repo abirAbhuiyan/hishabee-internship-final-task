@@ -98,4 +98,3 @@ Example: python P001.py
 For any questions regarding this submission, please contact:
 - Name: Abir Abhuiyan
 - Repository: https://github.com/abirAbhuiyan/hishabee-internship-final-task.git
-- Submission Date: [Insert Date]
