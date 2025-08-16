@@ -1,0 +1,20 @@
+2025-08-16 23:59:20,046 - INFO - Starting test: P002 (Attempt to add a purchase entry with missing required fields)
+2025-08-16 23:59:21,321 - INFO - Opened login page
+2025-08-16 23:59:26,495 - INFO - Entered phone number
+2025-08-16 23:59:28,611 - INFO - Clicked 'এগিয়ে যান'
+2025-08-16 23:59:33,663 - INFO - Entered password
+2025-08-16 23:59:33,704 - INFO - Clicked 'লগইন করুন'
+2025-08-16 23:59:43,799 - INFO - Selected shop: test
+2025-08-17 00:00:16,011 - INFO - Language set to English
+2025-08-17 00:00:16,585 - INFO - Clicked Home button
+2025-08-17 00:00:16,623 - INFO - Navigated to Purchase page
+2025-08-17 00:00:26,656 - INFO - Scrolled to add button
+2025-08-17 00:00:31,937 - INFO - Hovered over add button
+2025-08-17 00:00:33,053 - INFO - Clicked add button
+2025-08-17 00:00:36,165 - INFO - Typed 'product2' into the product name field.
+2025-08-17 00:00:36,210 - INFO - Entered '0' into Current Stock field successfully.
+2025-08-17 00:00:36,256 - INFO - Successfully entered '50' into Purchase Price field.
+2025-08-17 00:00:36,256 - INFO - Waiting for 'Add New Product' button to be enabled...
+2025-08-17 00:00:46,325 - ERROR - Failed to click 'Add New Product' button: Message: 
+
+2025-08-17 00:00:46,467 - INFO - Browser closed

@@ -1,0 +1,18 @@
+2025-08-16 23:58:27,494 - INFO - Starting test: P001 (Add a new Purchase entry with valid data)
+2025-08-16 23:58:30,280 - INFO - Opened login page
+2025-08-16 23:58:35,450 - INFO - Entered phone number
+2025-08-16 23:58:37,543 - INFO - Clicked 'এগিয়ে যান'
+2025-08-16 23:58:42,593 - INFO - Entered password
+2025-08-16 23:58:42,634 - INFO - Clicked 'লগইন করুন'
+2025-08-16 23:58:52,729 - INFO - Selected shop: test
+2025-08-16 23:59:14,930 - INFO - Language set to English
+2025-08-16 23:59:15,502 - INFO - Clicked Home button
+2025-08-16 23:59:15,543 - INFO - Navigated to Purchase page
+2025-08-16 23:59:17,679 - INFO - Clicked Add button
+2025-08-16 23:59:17,745 - INFO - Set Quantity to 10
+2025-08-16 23:59:17,800 - INFO - Set Unit Price to 40
+2025-08-16 23:59:17,876 - INFO - Clicked Cash button
+2025-08-16 23:59:18,467 - INFO - Clicked Amount Received button
+2025-08-16 23:59:19,518 - INFO - Overlay disappeared
+2025-08-16 23:59:19,586 - INFO - Clicked Close button successfully
+2025-08-16 23:59:19,752 - INFO - Browser closed

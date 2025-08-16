@@ -1,0 +1,16 @@
+2025-08-17 00:00:46,717 - INFO - Starting test: P003 (Editing the purchase value to a negative value)
+2025-08-17 00:00:48,257 - INFO - Opened login page
+2025-08-17 00:00:53,499 - INFO - Entered phone number
+2025-08-17 00:00:55,610 - INFO - Clicked 'এগিয়ে যান'
+2025-08-17 00:01:00,684 - INFO - Entered password
+2025-08-17 00:01:00,723 - INFO - Clicked 'লগইন করুন'
+2025-08-17 00:01:10,821 - INFO - Selected shop: test
+2025-08-17 00:01:43,035 - INFO - Language set to English
+2025-08-17 00:01:43,663 - INFO - Clicked Home button
+2025-08-17 00:01:43,708 - INFO - Navigated to Purchase page
+2025-08-17 00:01:46,371 - INFO - Clicked Add button
+2025-08-17 00:01:46,442 - INFO - Set Quantity to 10
+2025-08-17 00:01:46,496 - INFO - Set Unit Price to -40
+2025-08-17 00:01:46,505 - INFO - Total field value: 400.0
+2025-08-17 00:01:46,505 - INFO - Total value is not negative
+2025-08-17 00:01:46,631 - INFO - Browser closed

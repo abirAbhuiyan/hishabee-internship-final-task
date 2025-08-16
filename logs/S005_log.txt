@@ -1,0 +1,27 @@
+2025-08-17 00:09:40,705 - INFO - Starting test: S005 (Update stock after a sale)
+2025-08-17 00:09:42,094 - INFO - Opened login page
+2025-08-17 00:10:00,997 - INFO - Entered phone number
+2025-08-17 00:10:03,076 - INFO - Clicked 'এগিয়ে যান'
+2025-08-17 00:10:08,120 - INFO - Entered password
+2025-08-17 00:10:08,156 - INFO - Clicked 'লগইন করুন'
+2025-08-17 00:10:18,253 - INFO - Selected shop: test
+2025-08-17 00:10:50,462 - INFO - Language set to English
+2025-08-17 00:10:51,085 - INFO - Clicked Home button
+2025-08-17 00:10:51,124 - INFO - Navigated to Product List page
+2025-08-17 00:10:54,282 - INFO - Searched for 'product2' successfully
+2025-08-17 00:10:54,299 - INFO - Current stock of product2: 1
+2025-08-17 00:10:59,381 - INFO - Navigated to Sell page
+2025-08-17 00:11:09,400 - INFO - Search field located successfully.
+2025-08-17 00:11:09,468 - INFO - Entered 'product2' in the search field.
+2025-08-17 00:11:09,475 - INFO - Located product2 container.
+2025-08-17 00:11:09,482 - INFO - Found Add button for product2.
+2025-08-17 00:11:09,527 - INFO - Clicked the Add button for product2 successfully.
+2025-08-17 00:11:09,588 - INFO - Clicked Cash button
+2025-08-17 00:11:10,190 - INFO - Clicked Amount Received button
+2025-08-17 00:11:12,814 - INFO - Overlay disappeared
+2025-08-17 00:11:13,387 - INFO - Clicked Close button successfully
+2025-08-17 00:11:13,612 - INFO - Clicked Home button
+2025-08-17 00:11:13,654 - INFO - Navigated to Product List page
+2025-08-17 00:11:13,719 - INFO - Searched for 'product2' successfully
+2025-08-17 00:11:14,247 - INFO - Current stock of product2: 0
+2025-08-17 00:11:14,417 - INFO - Browser closed

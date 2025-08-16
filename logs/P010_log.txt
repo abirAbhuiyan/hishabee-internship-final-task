@@ -1,0 +1,23 @@
+2025-08-17 00:05:13,291 - INFO - Starting test: P010 (Add product with a existing name)
+2025-08-17 00:05:15,934 - INFO - Opened login page
+2025-08-17 00:05:21,089 - INFO - Entered phone number
+2025-08-17 00:05:23,177 - INFO - Clicked 'এগিয়ে যান'
+2025-08-17 00:05:28,219 - INFO - Entered password
+2025-08-17 00:05:28,254 - INFO - Clicked 'লগইন করুন'
+2025-08-17 00:05:38,332 - INFO - Selected shop: test
+2025-08-17 00:06:10,526 - INFO - Language set to English
+2025-08-17 00:06:11,110 - INFO - Clicked Home button
+2025-08-17 00:06:11,156 - INFO - Navigated to Purchase page
+2025-08-17 00:06:21,187 - INFO - Scrolled to add button
+2025-08-17 00:06:26,467 - INFO - Hovered over add button
+2025-08-17 00:06:27,578 - INFO - Clicked add button
+2025-08-17 00:06:30,694 - INFO - Typed 'product2' into the product name field.
+2025-08-17 00:06:30,745 - INFO - Entered '0' into Current Stock field successfully.
+2025-08-17 00:06:30,791 - INFO - Successfully entered '50' into Purchase Price field.
+2025-08-17 00:06:30,844 - INFO - Entered 50 in Sell Price input
+2025-08-17 00:06:30,844 - INFO - Waiting for 'Add New Product' button to be enabled...
+2025-08-17 00:06:30,907 - INFO - 'Add New Product' button clicked successfully.
+2025-08-17 00:06:35,976 - INFO - Navigated to Product List page
+2025-08-17 00:06:46,001 - INFO - 'product2' is present 2 time(s) in the table
+2025-08-17 00:06:46,002 - ERROR - Failed duplicate product entry test
+2025-08-17 00:06:46,149 - INFO - Browser closed

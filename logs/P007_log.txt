@@ -1,0 +1,17 @@
+2025-08-17 00:03:57,859 - INFO - Starting test: P007 (Edit an existing purchase entry)
+2025-08-17 00:04:05,314 - INFO - Opened login page
+2025-08-17 00:04:10,447 - INFO - Entered phone number
+2025-08-17 00:04:12,533 - INFO - Clicked 'এগিয়ে যান'
+2025-08-17 00:04:17,559 - INFO - Entered password
+2025-08-17 00:04:17,590 - INFO - Clicked 'লগইন করুন'
+2025-08-17 00:04:27,684 - INFO - Selected shop: test
+2025-08-17 00:04:59,900 - INFO - Language set to English
+2025-08-17 00:05:00,987 - INFO - Clicked Home button
+2025-08-17 00:05:01,032 - INFO - Navigated to Product List page
+2025-08-17 00:05:02,631 - INFO - Clicked the row for product1 successfully
+2025-08-17 00:05:12,708 - INFO - Clicked 'Update Stock' button successfully
+2025-08-17 00:05:12,723 - INFO - Initial stock value: 20000
+2025-08-17 00:05:12,779 - INFO - Updated stock value to 11000
+2025-08-17 00:05:12,811 - INFO - Clicked 'Update Stock' button successfully
+2025-08-17 00:05:12,820 - INFO - Stock value updated correctly to 11000
+2025-08-17 00:05:12,987 - INFO - Browser closed

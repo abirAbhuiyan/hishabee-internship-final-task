@@ -1,0 +1,21 @@
+2025-08-17 00:02:39,231 - INFO - Starting test: P006 (Cancel adding product with partial data)
+2025-08-17 00:02:42,009 - INFO - Opened login page
+2025-08-17 00:02:47,165 - INFO - Entered phone number
+2025-08-17 00:02:49,255 - INFO - Clicked 'এগিয়ে যান'
+2025-08-17 00:02:54,306 - INFO - Entered password
+2025-08-17 00:02:54,347 - INFO - Clicked 'লগইন করুন'
+2025-08-17 00:03:04,441 - INFO - Selected shop: test
+2025-08-17 00:03:36,651 - INFO - Language set to English
+2025-08-17 00:03:37,275 - INFO - Clicked Home button
+2025-08-17 00:03:37,324 - INFO - Navigated to Purchase page
+2025-08-17 00:03:47,355 - INFO - Scrolled to add button
+2025-08-17 00:03:52,636 - INFO - Hovered over add button
+2025-08-17 00:03:53,736 - INFO - Clicked add button
+2025-08-17 00:03:56,855 - INFO - Typed 'product2' into the product name field.
+2025-08-17 00:03:56,902 - INFO - Entered '0' into Current Stock field successfully.
+2025-08-17 00:03:56,950 - INFO - Successfully entered '50' into Purchase Price field.
+2025-08-17 00:03:57,004 - INFO - Entered 50 in Sell Price input
+2025-08-17 00:03:57,051 - INFO - Clicked the Cancel button successfully
+2025-08-17 00:03:57,401 - INFO - Navigated to Product List page
+2025-08-17 00:03:57,416 - INFO - Product2 is NOT present in the table, as expected
+2025-08-17 00:03:57,551 - INFO - Browser closed
