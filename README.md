@@ -9,7 +9,7 @@ https://github.com/abirAbhuiyan/hishabee-internship-final-task.git
 ## Technical Specifications
 - Platform: Hishabee Web (Dokan Management)
 - Automation Tool: Selenium WebDriver
-- Language: Python 3.x
+- Language: Python 3.9
 - Browser: Chrome
 - Test Framework: Custom implementation
 - Reporting: Text log files with timestamps
@@ -96,5 +96,5 @@ Example: python P001.py
 
 ## Contact Information
 For any questions regarding this submission, please contact:
-- Name: Abir Abhuiyan
+- Name: Abir Anam Bhuiyan
 - Repository: https://github.com/abirAbhuiyan/hishabee-internship-final-task.git
