@@ -56,7 +56,6 @@ Example: python P001.py
 ## Test Results
 - Each test generates a dedicated log file (e.g., P001_log.txt)
 - Logs include detailed execution steps with timestamps
-- Final status is displayed in console output
 
 ## Test Data
 - Test credentials are hardcoded in scripts (for evaluation purposes)
